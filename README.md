@@ -10,5 +10,5 @@ Welcome to my portfolio! Here are the data analysis and visualization projects I
 * **PROJECT 4 (Employee Career Survey Analysis)** – Evaluated workplace feedback and career satisfaction metrics.
 * **PROJECT 5 (Customer Analysis)** – Analyzed customer purchasing behavior and revenue performance.
 
-## 🛠️ Python Practice Notebooks
+## 🛠️ Python libraries
 * Core practice files covering NumPy, Pandas, Matplotlib, Seaborn, and Plotly.
