@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my portfolio! Here are the data analysis and visualization projects I have built using Python, Pandas, and Plotly.
+Welcome to my portfolio! Here are the data analysis and visualization projects I have built using Python.
 
 ## 📌 Projects
 
